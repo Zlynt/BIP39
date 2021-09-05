@@ -6,14 +6,23 @@ Ported from [jacekv BIP39](https://github.com/jacekv/bip39) NodeJS implementatio
 
 ## Dictionaries
 > English
+
 > Portuguese
+
 > Czech
+
 > Chinese (simplified)
+
 > Chinese (traditional)
+
 > French
+
 > Italian
+
 > Japanese
+
 > Korean
+
 > Spanish
 
 ## Word length
